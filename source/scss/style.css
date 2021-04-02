@@ -807,6 +807,10 @@ footer {
   .nav-footer__block-list-list {
     display: none;
   }
+
+  .response__card {
+    transform: scale(0.8);
+  }
 }
 @media (max-width: 650px) {
   .header__body {

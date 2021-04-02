@@ -1079,6 +1079,13 @@ padding: 65px 40px;
     display: none;
   }
 
+  .response{
+
+    &__card{
+      transform: scale(0.8);
+    }
+
+  }
 
 }
 
